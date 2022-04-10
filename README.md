@@ -1,0 +1,2 @@
+# DANNYs-DINER-CASE-STUDY
+So I decided to join the Data With Danny's #8WeekSQLChallenge DANNY's DINER CASE STUDY. It was challenging and still a whole new learning process as I still discovered more about SQL functions and even got a better understanding of the queries I used.  I' happy to drop this here and its open to critics and review as I'm still learning and trying to improve my skills daily.  Also a big THANKS to Danny Ma for this project/Case Study. I will also try completing the remaining 7 Case Study..
